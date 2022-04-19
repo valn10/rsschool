@@ -16,7 +16,6 @@
   }
 html {
     scroll-behavior: smooth;
-    /* background-color: black; */
 }
 body {
     position: relative;
@@ -182,6 +181,7 @@ body {
     z-index: 1;
 }
 /* .body {
+    
     display: block;
     position: relative;
 } */
