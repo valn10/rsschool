@@ -229,10 +229,7 @@ body {
         cursor: pointer;
         z-index: 1;
     }
-    /* .body {
-        display: block;
-        position: relative;
-    }   */
+    
     .menu_btn > span,
     .menu_btn > span::before,
     .menu_btn > span::after {
