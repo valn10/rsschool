@@ -1059,7 +1059,7 @@ body {
 .don_image {
     width: 505px;
     height: 261px;
-    background: url(/assets/images/donat_dog.png);
+    background: url(../assets/images/donat_dog.png);
     background-position: center;
 }
 .donat_title {
